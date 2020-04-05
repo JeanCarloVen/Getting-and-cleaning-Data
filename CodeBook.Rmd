@@ -1,7 +1,4 @@
----
-title: "CodeBook"
-output: github_document
----
+# This is an <h1> tag
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
